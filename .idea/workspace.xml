@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="cc37a6cf-8743-4a09-a5d2-8fa55394a47f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NavBar/Navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/redux/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/state.js" afterDir="false" />
     </list>
@@ -11,18 +18,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>serviceWorker.js</find>
-      <find>root</find>
-      <find>NavLink</find>
-      <find>dialogs</find>
-    </findStrings>
-    <dirStrings>
-      <dir>C:\projectes\my-app\src</dir>
-      <dir>C:\projectes\my-app</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -102,7 +97,7 @@
       <workItem from="1574545571071" duration="518000" />
       <workItem from="1574580096319" duration="1797000" />
       <workItem from="1574581916314" duration="1398000" />
-      <workItem from="1574621134876" duration="10975000" />
+      <workItem from="1574621134876" duration="26689000" />
     </task>
     <servers />
   </component>

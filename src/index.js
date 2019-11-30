@@ -6,13 +6,12 @@ import {BrowserRouter} from "react-router-dom";
 import App from "./App";
 
 let rerenderEntrieTree = (state) => {
-    ReactDOM.render(<BrowserRouter><App state={store}
-                                        updateNewPostText={store.updateNewPostText.bind(store)}
-                                        addPost={store.addPost.bind(store)}/></BrowserRouter>, document.getElementById('root'));
+    ReactDOM.render(<BrowserRouter><App state={state} store={store}
+                                        dispatch={store.dispatch.bind(store)}/></BrowserRouter>, document.getElementById('root'));
 }
 
-rerenderEntrieTree(store.getState);
-
+rerenderEntrieTree(store.getState());
+// addPost={store.addPost.bind(store)
 store.subscribe(rerenderEntrieTree);
 
 // If you want your app to work offline and load faster, you can change
